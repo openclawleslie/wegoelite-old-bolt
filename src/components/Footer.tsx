@@ -58,6 +58,9 @@ export default function Footer() {
             <p className="text-gray-500 text-xs md:text-sm font-light">
               © 2024 Wego Elite Academy. All rights reserved.
             </p>
+            <p className="text-gray-600 text-xs font-light">
+              Created by Claude
+            </p>
           </div>
         </div>
       </div>
